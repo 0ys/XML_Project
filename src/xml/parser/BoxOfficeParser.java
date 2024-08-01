@@ -3,7 +3,7 @@ package xml.parser;
 import java.io.InputStream;
 import java.util.List;
 
-import com.ssafy.day11.dto.BoxOffice;
+import xml.dto.BoxOffice;
 
 public interface BoxOfficeParser {
 
