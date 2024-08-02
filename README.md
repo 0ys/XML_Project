@@ -19,7 +19,7 @@ DOM Parser : Document Object Model parser
 
 
 # JSON 실습
-[여기](https://jar-download.com/download-handling.php)에서 jar 파일 다운로드
+[여기]([https://jar-download.com/download-handling.php](https://jar-download.com/artifacts/com.fasterxml.jackson.core#google_vignette))에서 jar 파일 다운로드
 - jackson-annotations-2.17.2.jar
 - jackson-core-2.17.2.jar
 - jackson-databind-2.17.2.jar
